@@ -1,2 +1,5 @@
 com/jorge/mensajes_app/Conexion.class
+com/jorge/mensajes_app/Mensaje.class
+com/jorge/mensajes_app/MensajesDAO.class
+com/jorge/mensajes_app/MensajesService.class
 com/jorge/mensajes_app/Mensajes_app.class
